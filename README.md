@@ -1,5 +1,11 @@
 # SIP Edu – Interactive Mutual Fund Learning & SIP Simulator
 
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-cyan)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A professional, educational web application focused on investor awareness and concept clarity.
 
 ## 🚀 Features
