@@ -1,5 +1,6 @@
 {
-  "name": "youware-react-template",
+  "homepage": "https://soumili3.github.io/fund-simulator",
+  "name": "fund-simulator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -37,6 +38,7 @@
     "@vitejs/plugin-react": "^4.7.0",
     "@youware/vite-plugin-react": "^1.0.3",
     "autoprefixer": "^10.4.27",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.8",
     "tailwindcss": "^3.4.19",
     "typescript": "~5.8.3",
